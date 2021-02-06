@@ -39,15 +39,26 @@ As we have been searching for similar ideas in the blockchain ecosystem, we foun
 ## Team :busts_in_silhouette:
 
 ### Team members
-* Name of team leader
+* Name of team leaders
+
     Saber Zafarpoor (Product manager & Blockchain Designer)
+    
     Hadi Esna (CTO & Blockchain Designer)
+    
 * Names of team members	
+
     Ahmad Salimi(Software Engineer)
+    
     Alireza Ilami(Data Analyst)
+    
     Sepehr Kianian(Front-End developer & Blockchain developer)
+    
     Amir Sadra Abdolahi(Front-End developer & Blockchain developer)
+    
+    Seyed Mehdi Sajadian Fard(Blockchain developer)
+    
     Yasaman Shad(Graphic Designer & UX)
+    
     ...(we will hire blockchain researchers and UI developers to enhance the quality)
 
 
